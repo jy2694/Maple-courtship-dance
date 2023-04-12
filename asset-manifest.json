@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Maple-courtship-dance/static/css/main.756af292.css",
+    "main.js": "/Maple-courtship-dance/static/js/main.0dd2cc9c.js",
+    "static/js/787.d9b1268f.chunk.js": "/Maple-courtship-dance/static/js/787.d9b1268f.chunk.js",
+    "static/media/right.png": "/Maple-courtship-dance/static/media/right.fd58efd48763aa8cf6fa.png",
+    "static/media/left.png": "/Maple-courtship-dance/static/media/left.72b757359f845fbea587.png",
+    "static/media/up.png": "/Maple-courtship-dance/static/media/up.964fed5570c590cb9e60.png",
+    "static/media/down.png": "/Maple-courtship-dance/static/media/down.62d2cd3a6fab92ef059a.png",
+    "static/media/boing.mp3": "/Maple-courtship-dance/static/media/boing.908352a75ddc2ca1552d.mp3",
+    "index.html": "/Maple-courtship-dance/index.html",
+    "main.756af292.css.map": "/Maple-courtship-dance/static/css/main.756af292.css.map",
+    "main.0dd2cc9c.js.map": "/Maple-courtship-dance/static/js/main.0dd2cc9c.js.map",
+    "787.d9b1268f.chunk.js.map": "/Maple-courtship-dance/static/js/787.d9b1268f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.0dd2cc9c.js"
+  ]
+}
